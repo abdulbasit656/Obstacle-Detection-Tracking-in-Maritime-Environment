@@ -1,5 +1,5 @@
 # Obstacle-Detection-Tracking-in-Maritime-Environment
-Real-Time Obstacle Detection &amp; Tracking in Maritime Environment for USVs using YOLO and EKF
+A robust obstacle detection and tracking system for USV in marine environments using CNN algorithm YOLO for detection and Extended Kalman Filter for tracking using ROS platform developed in C++ language.
 
 # Installation
 ## Prerequisites
