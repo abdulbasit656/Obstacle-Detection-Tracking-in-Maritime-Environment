@@ -29,3 +29,5 @@ Following the flow described in the official ROS website, sh $ mkdir -p ~/Docume
 
 Read https://pcl.readthedocs.io/projects/tutorials/en/pcl-1.11.0/gpu_install.html. The CUDA enabling part is important since the point cloud clustering works with pcl CUDA functions.
 Now install PCL version 1.10 from Github according to these instructions.
+
+**The code repository is not for the public**
